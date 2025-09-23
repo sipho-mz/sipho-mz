@@ -8,9 +8,6 @@
    <a href="https://za.linkedin.com/in/siphoesihle-zwane-872b481ab">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
-   <a href="notilsky@gmail.com">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
 </div>
 
 <!--Some notable info about myself-->
@@ -25,7 +22,7 @@ Interests:
   [
     "Systems design and analysis using STAMP tools eg. MicroSTAMP"
     "Acceleration hardware design and development with the RISC V specification"
-    "Acceleration hardware programming eg. openCL"
+    "Acceleration hardware programming eg. openCL, Rusticl"
   ]
 ```
 
@@ -33,19 +30,10 @@ Interests:
 <h2>My Toolkit</h2>
 <h3>Languages</h3>
 <p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
    <a href="#">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
-   
-<h3>Frameworks</h3>
-<p>
-   
-</p>
-</div>
 
 
 <h2>My Statitstics</h2>
