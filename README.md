@@ -5,10 +5,10 @@
 
 <!--My various links-->
 <div align="center">
-   <a href="#">
+   <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
-   <a href="#">
+   <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 </div>
@@ -35,10 +35,10 @@ Interests:
 <h3>Frameworks</h3>
    
 <p align="left">
-  <a href="#">
+  <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg">
     <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
-   <a href="#">
+   <a href="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 </p>
