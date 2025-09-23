@@ -4,8 +4,13 @@
 </div>
 
 <!--My various links-->
-<div>
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<div align="center">
+   <a href="#">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
 </div>
 
 <!--Some notable info about myself-->
@@ -25,15 +30,20 @@ Interests:
 ```
 
 <div>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>My Toolkit</h2>
+<h3>Languages</h3>
+<h3>Frameworks</h3>
+   
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="12" height="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="12" height="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="12" height="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="12" height="12"/>
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
 </p>
 </div>
 
-<div>
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sipho-mz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-</div>
+
