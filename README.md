@@ -20,7 +20,7 @@ education:
 
 Interests:
   [
-    "Systems design and analysis using STAMP tools eg. MicroSTAMP"
+    "Systems design and analysis using STAMP tools eg. STPA"
     "Acceleration hardware design and development with the RISC V specification"
     "Acceleration hardware programming eg. openCL, Rusticl"
   ]
