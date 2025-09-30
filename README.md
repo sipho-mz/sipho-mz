@@ -31,22 +31,34 @@ Interests:
 <h2>My Toolkit</h2>
 <h3>Languages</h3>
 <p align="left">
-   <a>
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" alt="C language" height="50" width="50" />
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" alt="C++ language" height="50" width="50" />
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" width="50" /> 
-   </a>
-   <a>
-      <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" />
-   </a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C language" height="50" width="50" /></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ language" height="50" width="50" /></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" /> </a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" /></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" width="50"></a>
 </p>
-
-
-<h2>My Statitstics</h2>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sipho-mz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<h3>Databases</h3>
+<p align="left">
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50"></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50"></a>
+</p>
+<h3>Frameworks</h3>
+<p align="left">
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="50" width="50"></a>
+</p>
+<h3>Operating Systems</h3>
+<p align="left">
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="50" width="50"></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="50" width="50"></a>
+</p>
+<h3>Misc.</h3>
+<p align="left">
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" height="50" width="50"></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" height="50" width="50"></a>
+</p>
+<h3>Integrated Development Environments</h3>
+<p align="left">
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" height="50" width="50"></a>
+   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50"></a>
+</p>
 
