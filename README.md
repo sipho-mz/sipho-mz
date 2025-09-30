@@ -22,6 +22,7 @@ Education:
 Interests:
   [
     "Systems design and analysis using STAMP tools eg. STPA"
+    "Formal Specification tools eg. LEAN"
     "Acceleration hardware design and development with the RISC V specification"
     "Acceleration hardware programming eg. openCL, Rusticl"
   ]
@@ -62,3 +63,4 @@ Interests:
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50"></a>
 </p>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sipho-mz\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
