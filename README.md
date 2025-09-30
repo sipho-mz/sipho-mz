@@ -7,13 +7,14 @@
 <div align="center">
    <a href="https://za.linkedin.com/in/siphoesihle-zwane-872b481ab">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 </div>
 
 <!--Some notable info about myself-->
 ```yaml
-name: Siphoesihle Zwane
-education:
+Name: Siphoesihle Zwane
+Email: siphesihlezwane583@gmail.com
+Education:
   [
     "Online programmes and courses"
   ]
