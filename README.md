@@ -16,15 +16,13 @@ Name: Siphoesihle Zwane
 Email: siphesihlezwane583@gmail.com
 Education:
   [
-    "Online programmes and courses"
+    "Online courses"
   ]
 
 Interests:
   [
-    "Systems design and analysis using STAMP tools eg. STPA"
-    "Formal Specification tools eg. LEAN"
-    "Acceleration hardware design and development with the RISC V specification"
-    "Acceleration hardware programming eg. openCL, Rusticl"
+    "Formal Methods"
+    ""
   ]
 ```
 
