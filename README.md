@@ -23,7 +23,6 @@ Interests:
   [
     "Formal Methods"
     "AI"
-    "Rust"
   ]
 ```
 
