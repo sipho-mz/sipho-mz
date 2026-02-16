@@ -22,7 +22,8 @@ Education:
 Interests:
   [
     "Formal Methods"
-    ""
+    "AI"
+    "Rust"
   ]
 ```
 
