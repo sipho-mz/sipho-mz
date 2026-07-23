@@ -33,27 +33,5 @@ Interests:
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" /> </a>
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" /></a>
 </p>
-<h3>Databases</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50"></a>
-</p>
-<h3>Frameworks</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="50" width="50"></a>
-</p>
-<h3>Operating Systems</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="50" width="50"></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="50" width="50"></a>
-</p>
-<h3>Misc.</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" height="50" width="50"></a>
-</p>
-<h3>Integrated Development Environments</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" height="50" width="50"></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50"></a>
-</p>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sipho-mz\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended)
