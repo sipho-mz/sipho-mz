@@ -30,16 +30,12 @@ Interests:
 <h2>My Toolkit</h2>
 <h3>Languages</h3>
 <p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C language" height="50" width="50" /></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ language" height="50" width="50" /></a>
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" /> </a>
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" /></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" height="50" width="50"></a>
 </p>
 <h3>Databases</h3>
 <p align="left">
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="50" width="50"></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="50" width="50"></a>
 </p>
 <h3>Frameworks</h3>
 <p align="left">
@@ -53,7 +49,6 @@ Interests:
 <h3>Misc.</h3>
 <p align="left">
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" height="50" width="50"></a>
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" height="50" width="50"></a>
 </p>
 <h3>Integrated Development Environments</h3>
 <p align="left">
