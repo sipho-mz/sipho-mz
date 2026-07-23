@@ -35,4 +35,5 @@ Interests:
 </p>
 
 <h3>Misc.</h3>
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sipho-mz\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended)
