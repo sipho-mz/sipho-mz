@@ -56,4 +56,4 @@ Interests:
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="50" width="50"></a>
 </p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sipho-mz\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=sipho-mz\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/stats-organization/github-stats-extended)
