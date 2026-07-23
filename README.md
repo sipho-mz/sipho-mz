@@ -5,7 +5,7 @@
 
 <!--My various links-->
 <div align="center">
-   <a href="https://za.linkedin.com/in/siphoesihle-zwane-872b481ab">
+   <a href="https://za.linkedin.com/in/siphoesihle-zwane">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 </div>
