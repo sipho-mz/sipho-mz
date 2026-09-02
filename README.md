@@ -14,11 +14,6 @@
 ```yaml
 Name: Siphoesihle Zwane
 Email: siphesihlezwane583@gmail.com
-Education:
-  [
-    "Online courses"
-  ]
-
 Interests:
   [
     "Formal Methods"
