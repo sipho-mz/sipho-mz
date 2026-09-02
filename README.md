@@ -13,7 +13,7 @@
 <!--Some notable info about myself-->
 ```yaml
 Name: Siphoesihle Zwane
-Email: siphesihlezwane583@gmail.com
+Email: siphozwanem@gmail.com
 Interests:
   [
     "Formal Methods",
