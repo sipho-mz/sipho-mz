@@ -18,7 +18,7 @@ Interests:
   [
     "Formal Methods",
     "AI",
-    "Data Engineering"
+    "Data Engineering",
   ]
 ```
 
