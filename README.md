@@ -14,6 +14,7 @@
 ```yaml
 Name: Siphoesihle Zwane
 Email: siphozwanem@gmail.com
+
 Interests:
   [
     "Formal Methods",
