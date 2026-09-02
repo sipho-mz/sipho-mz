@@ -16,8 +16,9 @@ Name: Siphoesihle Zwane
 Email: siphesihlezwane583@gmail.com
 Interests:
   [
-    "Formal Methods"
-    "AI"
+    "Formal Methods",
+    "AI",
+    "Data Engineering"
   ]
 ```
 
