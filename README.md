@@ -12,14 +12,20 @@
 
 <!--Some notable info about myself-->
 ```yaml
+
 Name: Siphoesihle Zwane
+
 Email: siphozwanem@gmail.com
 
 Interests:
   [
+
     "Formal Methods",
+
     "AI",
+
     "Data Engineering",
+
   ]
 ```
 
