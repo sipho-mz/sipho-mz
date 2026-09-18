@@ -19,13 +19,11 @@ Email: siphozwanem@gmail.com
 
 Interests:
   [
+    "Data/Analytics Engineering",
 
     "Formal Methods",
 
     "AI",
-
-    "Data Engineering",
-
   ]
 ```
 
