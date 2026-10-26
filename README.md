@@ -28,8 +28,6 @@ Interests:
 <div>
 <h2>My Toolkit</h2>
 <h3>Languages</h3>
-<p align="left">
-   <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" /> </a>
    <a><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" /></a>
 </p>
 
