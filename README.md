@@ -15,7 +15,8 @@
 
 Name: Siphoesihle Zwane
 
-Bio: Early-career data professional in Johannesburg, South Africa. 12-month Learning Technology internship at Prosus (2025–2026). Building Python and SQL data pipeline projects.
+Bio: Early-career data professional in Johannesburg, South Africa. 12-month Learning
+     Technology internship at Prosus (2025–2026). Building Python and SQL data pipeline projects.
 
 Interests:
   [
